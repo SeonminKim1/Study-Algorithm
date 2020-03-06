@@ -16,7 +16,10 @@
 # 3월 2일 (알고리즘 2일차)
 - Dynamic Program (동적 프로그래밍) / QuickSort(퀵 정렬) / MergeSort (병합 정렬) / Binary Search(이진 탐색) / Sequential Search(순차탐색)
 
-# 3월 3일 (알고리즘 3일차)
+# 3월 6일 (알고리즘 3일차)
+- Shortest Path (최단경로 알고리즘) / Dijkstra(다익스트라 알고리즘) / Kruskal(크루스칼 알고리즘) / Union&find(크루스칼 내부 알고리즘) 
+- Prim(프림 알고리즘) / Backtracking (백트래킹 알고리즘)
 
 
 
+※ 패스트 캠퍼스 알고리즘 강의를 수강하면 정리한 내용
