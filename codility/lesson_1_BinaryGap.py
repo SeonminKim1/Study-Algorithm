@@ -15,3 +15,16 @@ def solution(N):
             if gap > max_num:
                 max_num = gap
         return max_num
+
+# 다른날 풀이방법
+def solution(N):
+    binary_num = bin(N)[2:]
+    max_counter, counter = 0, 0
+    for n in binary_num:
+        if n=='1':
+            if max_counter <= counter:
+                max_counter = counter
+            counter = 0 
+        else: # n=='0'
+            counter+=1
+    return max_counter
